@@ -21,16 +21,26 @@
     "dwm_2026-05-04": {
       "decision": "approved",
       "decided_at": "2026-05-04T20:57:54.575Z",
-      "sent_at": "2026-05-04T21:04:12.614Z",
+      "sent_at": "2026-05-04T22:08:12.868Z",
       "send_status": "sent",
-      "mailchimp_campaign_id": "f4c2b06a1e"
+      "mailchimp_campaign_id": "e0268060ac",
+      "previous_sends": [
+        {
+          "sent_at": "2026-05-04T21:04:12.614Z",
+          "mailchimp_campaign_id": "f4c2b06a1e",
+          "send_status": "sent"
+        }
+      ]
     },
     "email_2026-05-04_c1": {
       "decision": "pending"
     },
     "email_2026-05-04_c2": {
       "decision": "approved",
-      "decided_at": "2026-05-04T21:00:57.148Z"
+      "decided_at": "2026-05-04T21:00:57.148Z",
+      "sent_at": "2026-05-04T22:08:17.788Z",
+      "send_status": "drafted",
+      "mailchimp_campaign_id": "dccc3c0b88"
     }
   },
   "last_brief_sent": "2026-05-04T20:53:57.024Z",
