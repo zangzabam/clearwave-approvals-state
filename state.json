@@ -5,12 +5,28 @@
       "id": "dwm_2026-05-04",
       "type": "daily_water_minute",
       "title": "Daily Water Minute · How long should your system actually last?"
+    },
+    {
+      "id": "email_2026-05-04_c1",
+      "type": "email_proposal",
+      "title": "Email Campaign · 1: Annual Service Reminder (1-Year Post-Install)"
+    },
+    {
+      "id": "email_2026-05-04_c2",
+      "type": "email_proposal",
+      "title": "Email Campaign · 2: Referral Bonus Push (30-60 Days Post-Install, Satisfied C"
     }
   ],
   "decisions": {
     "dwm_2026-05-04": {
       "decision": "pending"
+    },
+    "email_2026-05-04_c1": {
+      "decision": "pending"
+    },
+    "email_2026-05-04_c2": {
+      "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-05-04T20:41:43.097Z"
+  "last_brief_sent": "2026-05-04T20:53:57.024Z"
 }
