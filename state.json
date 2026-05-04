@@ -1,1 +1,16 @@
-{"date": "2026-05-04", "decisions": {}, "items": [], "_note": "Written by ClearWave dashboard, read by Mac cron via raw URL. Each entry = one item id with decision (approved/skipped/edited)."}
+{
+  "date": "2026-05-04",
+  "items": [
+    {
+      "id": "dwm_2026-05-04",
+      "type": "daily_water_minute",
+      "title": "Daily Water Minute · How long should your system actually last?"
+    }
+  ],
+  "decisions": {
+    "dwm_2026-05-04": {
+      "decision": "pending"
+    }
+  },
+  "last_brief_sent": "2026-05-04T20:40:25.716Z"
+}
