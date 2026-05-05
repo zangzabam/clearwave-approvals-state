@@ -1,58 +1,32 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "items": [
     {
-      "id": "dwm_2026-05-04",
+      "id": "dwm_2026-05-05",
       "type": "daily_water_minute",
-      "title": "Daily Water Minute · How long should your system actually last?"
+      "title": "Daily Water Minute · The maintenance truth nobody tells you"
     },
     {
-      "id": "email_2026-05-04_c1",
+      "id": "email_2026-05-05_c1",
       "type": "email_proposal",
-      "title": "Email Campaign · 1: Annual Service Reminder (1-Year Post-Install)"
+      "title": "Email Campaign · 1: Annual Service Invitations (26 candidates)"
     },
     {
-      "id": "email_2026-05-04_c2",
+      "id": "email_2026-05-05_c2",
       "type": "email_proposal",
-      "title": "Email Campaign · 2: Referral Bonus Push (30-60 Days Post-Install, Satisfied C"
+      "title": "Email Campaign · 2: Referral Push (19 candidates)"
     }
   ],
   "decisions": {
-    "dwm_2026-05-04": {
-      "decision": "approved",
-      "decided_at": "2026-05-04T20:57:54.575Z",
-      "sent_at": "2026-05-04T22:13:49.837Z",
-      "send_status": "sent",
-      "mailchimp_campaign_id": "e35af5483c",
-      "previous_sends": [
-        {
-          "sent_at": "2026-05-04T21:04:12.614Z",
-          "mailchimp_campaign_id": "f4c2b06a1e",
-          "send_status": "sent"
-        },
-        {
-          "sent_at": "2026-05-04T22:08:12.868Z",
-          "mailchimp_campaign_id": "e0268060ac",
-          "send_status": "sent"
-        },
-        {
-          "sent_at": "2026-05-04T22:11:20.254Z",
-          "mailchimp_campaign_id": "35e5fab284",
-          "send_status": "sent"
-        }
-      ]
-    },
-    "email_2026-05-04_c1": {
+    "dwm_2026-05-05": {
       "decision": "pending"
     },
-    "email_2026-05-04_c2": {
-      "decision": "approved",
-      "decided_at": "2026-05-04T21:00:57.148Z",
-      "sent_at": "2026-05-04T22:08:17.788Z",
-      "send_status": "drafted",
-      "mailchimp_campaign_id": "dccc3c0b88"
+    "email_2026-05-05_c1": {
+      "decision": "pending"
+    },
+    "email_2026-05-05_c2": {
+      "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-05-04T20:53:57.024Z",
-  "last_decision_at": "2026-05-04T21:00:57.148Z"
+  "last_brief_sent": "2026-05-05T10:30:01.899Z"
 }
