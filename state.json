@@ -4,17 +4,21 @@
     {
       "id": "dwm_2026-05-05",
       "type": "daily_water_minute",
-      "title": "Daily Water Minute · The maintenance truth nobody tells you"
+      "title": "Daily Water Minute · The maintenance truth nobody tells you",
+      "preview": "Words I like;\n\"The best system is the one you forget is there.\"\nHere's what I tell people when they ask how much maintenance a quality water treatment system actually needs: if you're doing something every week, somebody sold you wrong.\nA well-engineered system should be nearly invisible. You're not running a chemistry lab in your basement. You're living your life.\nFor most whole-home systems, real maintenance looks like this: salt in the softener every few weeks (if you have one), maybe a cartridge swap once or twice a year, and an annual check on the media. That's it. Fifteen minutes, maybe twice a year. Less time than you spend changing your furnace filter.\nIf you already own a ClearWave system, you know this. You made a smart call choosing equipment that works quietly in the background while you forget it exists.\nThe systems that need constant babysitting? They're either badly designed or badly matched to your water. Good water treatment is a one-time decision that solves the problem for years, not a hobby that follows you around forever.\nYour water should just work. Every day. Without you thinking about it.\nIf you're still dealing with bad water, reply and I'll send you a free water assessment.\nAs promised, value in under a minute.\nJustin\nCEO / ClearWave",
+      "source_path": "/Users/jwts3/Mirror/TRADING CHARTS/NFT/CLEARWAVE/ADMIN/AI ASSETS/clearwave-growth-agent/data/processed/daily_value_emails/2026-05-05.email.md"
     },
     {
       "id": "email_2026-05-05_c1",
       "type": "email_proposal",
-      "title": "Email Campaign · 1: Annual Service Invitations (26 candidates)"
+      "title": "Email Campaign · 1: Annual Service Invitations (26 candidates)",
+      "preview": "Audience: 1-year post-install clients due for first annual service Size: 26 contacts Priority: URGENT. Service window opening now  Subject Lines (60 char max) PRIMARY: `Your first annual service (here's what happens)` Alternates:"
     },
     {
       "id": "email_2026-05-05_c2",
       "type": "email_proposal",
-      "title": "Email Campaign · 2: Referral Push (19 candidates)"
+      "title": "Email Campaign · 2: Referral Push (19 candidates)",
+      "preview": "Audience: 30-60 day post-install clients (satisfied, past honeymoon phase, system is proven) Size: 19 contacts Priority: HIGH. Highest-margin revenue source (no acquisition cost)  Subject Lines (60 char max) PRIMARY: `Stacy, can I ask you a favor?` Alternates:"
     }
   ],
   "decisions": {
@@ -28,5 +32,5 @@
       "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-05-05T11:23:04.403Z"
+  "last_brief_sent": "2026-05-05T11:27:13.505Z"
 }
