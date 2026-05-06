@@ -24,7 +24,10 @@
   "decisions": {
     "dwm_2026-05-06": {
       "decision": "approved",
-      "decided_at": "2026-05-06T17:07:01.831Z"
+      "decided_at": "2026-05-06T17:07:01.831Z",
+      "sent_at": "2026-05-06T17:17:35.968Z",
+      "send_status": "sent",
+      "mailchimp_campaign_id": "ba69869771"
     },
     "email_2026-05-06_c1": {
       "decision": "pending"
