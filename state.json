@@ -1,41 +1,36 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "items": [
     {
-      "id": "dwm_2026-05-05",
+      "id": "dwm_2026-05-06",
       "type": "daily_water_minute",
-      "title": "Daily Water Minute · The maintenance truth nobody tells you",
-      "preview": "Words I like;\n\"The best system is the one you forget is there.\"\nHere's what I tell people when they ask how much maintenance a quality water treatment system actually needs: if you're doing something every week, somebody sold you wrong.\nA well-engineered system should be nearly invisible. You're not running a chemistry lab in your basement. You're living your life.\nFor most whole-home systems, real maintenance looks like this: salt in the softener every few weeks (if you have one), maybe a cartridge swap once or twice a year, and an annual check on the media. That's it. Fifteen minutes, maybe twice a year. Less time than you spend changing your furnace filter.\nIf you already own a ClearWave system, you know this. You made a smart call choosing equipment that works quietly in the background while you forget it exists.\nThe systems that need constant babysitting? They're either badly designed or badly matched to your water. Good water treatment is a one-time decision that solves the problem for years, not a hobby that follows you around forever.\nYour water should just work. Every day. Without you thinking about it.\nIf you're still dealing with bad water, reply and I'll send you a free water assessment.\nAs promised, value in under a minute.\nJustin\nCEO / ClearWave",
-      "source_path": "/Users/jwts3/Mirror/TRADING CHARTS/NFT/CLEARWAVE/ADMIN/AI ASSETS/clearwave-growth-agent/data/processed/daily_value_emails/2026-05-05.email.md"
+      "title": "Daily Water Minute · The $2,920 math nobody talks about",
+      "preview": "Words I like;\n\"If you can't measure it, you can't improve it.\" Peter Drucker said that about business, but it works for your wallet too.\nHere's the math most people never do: one 24-pack of bottled water runs about $6 these days. If your family goes through two packs a week (pretty normal for a household of four), that's $624 a year. Over five years? $3,120. Over ten? $6,240.\nAnd that's conservative. Add in the gas stations, the vending machines, the convenience store runs when you're out, and the real number climbs fast.\nNobody wakes up and says \"I want to spend three grand on plastic bottles.\" It just happens a case at a time.\nFor folks who already have a ClearWave system, you know this. You did the math before you called us. You're drinking straight from the tap now, and that $50-a-month habit is gone.\nFor everyone else: I'm not saying bottled water is evil. I'm saying it's expensive, and most people genuinely don't realize how expensive until they add it up.\nThere's a better way. It starts with knowing what's actually in your water.\nHit reply and I'll send you our free water assessment.\nAs promised, value in under a minute.\nJustin\nCEO / ClearWave",
+      "source_path": "/Users/jwts3/Mirror/TRADING CHARTS/NFT/CLEARWAVE/ADMIN/AI ASSETS/clearwave-growth-agent/data/processed/daily_value_emails/2026-05-06.email.md"
     },
     {
-      "id": "email_2026-05-05_c1",
+      "id": "email_2026-05-06_c1",
       "type": "email_proposal",
-      "title": "Email Campaign · 1: Annual Service Invitations (26 candidates)",
-      "preview": "Audience: 1-year post-install clients due for first annual service Size: 26 contacts Priority: URGENT. Service window opening now  Subject Lines (60 char max) PRIMARY: `Your first annual service (here's what happens)` Alternates:"
+      "title": "Email Campaign · 1: 1-Year Annual Service Reminder",
+      "preview": "Audience: 26 clients at 12-month mark Source: IDEA_SOURCING.md § Lifecycle trigger emails > Annual service reminder  Subject Lines Primary: `Your system's first birthday (book now)` Alternates: 1. `12 months in: one quick appointment`"
     },
     {
-      "id": "email_2026-05-05_c2",
+      "id": "email_2026-05-06_c2",
       "type": "email_proposal",
-      "title": "Email Campaign · 2: Referral Push (19 candidates)",
-      "preview": "Audience: 30-60 day post-install clients (satisfied, past honeymoon phase, system is proven) Size: 19 contacts Priority: HIGH. Highest-margin revenue source (no acquisition cost)  Subject Lines (60 char max) PRIMARY: `Stacy, can I ask you a favor?` Alternates:"
+      "title": "Email Campaign · 2: Cold Lead Re-Engagement (New Water News Hook)",
+      "preview": "Audience: 1,000 cold subscribers (>60d no engagement, never reached quote stage) Source: IDEA_SOURCING.md § Re-engagement campaigns > \"Did something change?\" + Educational content repurposing > water news angle  Subject Lines Primary: `VA's new PFAS limits (what it means for you)` Alternates: 1. `The EPA just moved the"
     }
   ],
   "decisions": {
-    "dwm_2026-05-05": {
-      "decision": "approved",
-      "decided_at": "2026-05-05T11:30:25.575Z",
-      "sent_at": "2026-05-05T11:36:54.892Z",
-      "send_status": "sent",
-      "mailchimp_campaign_id": "07495a72eb"
-    },
-    "email_2026-05-05_c1": {
+    "dwm_2026-05-06": {
       "decision": "pending"
     },
-    "email_2026-05-05_c2": {
+    "email_2026-05-06_c1": {
+      "decision": "pending"
+    },
+    "email_2026-05-06_c2": {
       "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-05-05T11:27:13.505Z",
-  "last_decision_at": "2026-05-05T11:30:25.575Z"
+  "last_brief_sent": "2026-05-06T10:30:02.156Z"
 }
