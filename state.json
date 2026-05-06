@@ -23,7 +23,8 @@
   ],
   "decisions": {
     "dwm_2026-05-06": {
-      "decision": "pending"
+      "decision": "approved",
+      "decided_at": "2026-05-06T17:07:01.831Z"
     },
     "email_2026-05-06_c1": {
       "decision": "pending"
@@ -32,5 +33,6 @@
       "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-05-06T10:30:02.156Z"
+  "last_brief_sent": "2026-05-06T10:30:02.156Z",
+  "last_decision_at": "2026-05-06T17:07:01.831Z"
 }
