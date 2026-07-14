@@ -1,36 +1,138 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "items": [
     {
-      "id": "email_2026-07-13_c1",
-      "type": "email_proposal",
-      "title": "Email Campaign · 1: Referral Push (30-60 Days Post-Install)",
-      "preview": "**Audience:** 30 satisfied clients, 30-60 days post-install\n**Segment:** Referral push candidates (Jobber trigger)\n---\n### Subject Line Options (60 char max)\n**Primary:**\n`Quick favor (+ $500 if you know someone)`\n**Alternates:**\n1. `Who else needs better water?`\n2. `Your neighbors are asking about your water`\n3. `$500 for a name. Seriously.`\n4. `One question about your system`\n---\n### Preview Text (90 char max)\n`If you know one person dealing with bad water, I'll make it worth your time.`\n---\n### Email Body\n**Subject:** Quick favor (+ $500 if you know someone)\nHi {{First Name}},\nYour {{System Name}} has been running for about six weeks now.\nI have one question: do you know anyone else dealing with hard water, iron stains, or sulfur smell?\nHere's why I'm asking.\nMost of our clients come from referrals. Word of mouth beats every ad we've ever run. And when someone you trust says \"call Justin,\" that person actually picks up the phone.\nSo here's the deal.\nIf you send someone my way and they book a free water assessment, you get a **$50 gift card** whether they buy or not.\nIf they close? **$500 cash** for referrals 1 through 5 this year. **$750** for referrals 6 through 9. **$1,000** for referral 10 and beyond.\nI'm not asking you to sell anything. Just pass along my number to someone who needs help.\nIf that's you, reply with their name and number. I'll take it from there.\nJustin\nCEO / ClearWave\n(804) 893-9919\n---\n### Send Timing\n**Tuesday, 10:00 AM ET**\n(Mid-morning on a low-inbox-volume day; avoids Monday chaos and Friday checkout)\n---\n### Expected Performance\n- **Open rate:** 48-52%\n *Rationale:* Post-install satisfaction is high; subject line uses curiosity + monetary hook; well above our 42.1% avg.\n- **Click rate:** 2.5-4.0%\n *Rationale:* Single, clear CTA (reply); financial incentive; dramatically higher than our 0.28% avg because this is a **reply-based ask**, not a link-click campaign.\n- **Conversion (referrals submitted):** 10-15% (3-5 referrals)\n *Rationale:* Timing (recent install, high satisfaction), clear incentive structure, low friction (just reply with a name).\n---\n### Source Justification\n- **IDEA_SOURCING.md #2 (Jobber lifecycle triggers):** \"30-60 days post-install, satisfied\". The Goldilocks window for referral asks.\n- **IDEA_SOURCING.md #10 (Referral bonus campaigns):** Explicitly calls out the $500/$750/$1K structure and the $50 gift card for non-closed bookings.\n- **Voice Fingerprint (luxury_product register):** Short sentences, periodic single-line paragraphs, conversational tone, triadic structure in the close logic (\"name and number... I'll take it from there\").\n---"
+      "id": "pkg_2026-07-13_IMG_20260628_195509_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · Evening shot (7:55pm timestamp) likely of Justin, a job site, or a milestone marker used as the visual anchor for the Q1 quarter-review recap of building ClearWave Water Solutions",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"Q1 of building ClearWave is done.\n4 employees. $138K peak month. Real numbers, n…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
     },
     {
-      "id": "email_2026-07-13_c2",
-      "type": "email_proposal",
-      "title": "Email Campaign · 2: Concierge Upsell (13-24 Months Post-Install)",
-      "preview": "**Audience:** 100 clients, 13-24 months post-install, NOT on Concierge\n**Segment:** Concierge upsell candidates (Jobber trigger)\n---\n### Subject Line Options (60 char max)\n**Primary:**\n`Is Concierge worth it? (the math)`\n**Alternates:**\n1. `The question we get at 18 months`\n2. `You've been running your system for over a year`\n3. `DIY or done-for-you? Here's the math.`\n4. `$99/mo. What you actually get.`\n---\n### Preview Text (90 char max)\n`Annual service + filters + priority support + parts coverage. Here's what it costs DIY.`\n---\n### Email Body\n**Subject:** Is Concierge worth it? (the math)\nHi {{First Name}},\nYour {{System Name}} has been running for over a year now.\nAround this point, most clients ask the same question: \"Is the Concierge plan worth it for me?\"\nHere's the math.\n**DIY (pay as you go):**\nAnnual service: $349\nFilter swaps (2-4x/year depending on system): $120-$280\nParts (if something breaks): $150-$600\n**Total:** $619 to $1,229/year\n**Concierge ($99/mo = $1,188/year):**\nAnnual service: included\nFilter swaps: included\nPriority phone support: included\nParts coverage on standard install components: included\nIf you use two or more of those services, Concierge pays for itself. If you value the \"one less thing to think about\" factor, it's a no-brainer.\nIf you want in, reply and I'll get you set up. If you'd rather stay DIY, no problem. I just wanted you to have the numbers.\nJustin\nCEO / ClearWave\n(804) 893-9919\n---\n### Send Timing\n**Thursday, 2:00 PM ET**\n(Afternoon send; decision-makers often review \"household business\" items mid-to-late week; avoids competing with Tuesday referral campaign)\n---\n### Expected Performance\n- **Open rate:** 44-48%\n *Rationale:* Subject line signals utility (\"the math\"); audience is already engaged (13-24 months post-install); slightly above our 42.1% avg.\n- **Click rate:** 0.8-1.2%\n *Rationale:* Reply-based CTA (no link required), but Concierge is a \"nice to have\" not urgent, so lower engagement than referral push; still 3-4x our 0.28% avg.\n- **Conversion (Concierge sign-ups):** 8-12% (8-12 clients)\n *Rationale:* Audience has passed the 12-month trust threshold; framing is consultative, not pushy; conversion = email reply expressing interest.\n---\n### Source Justification\n- **IDEA_SOURCING.md #2 (Jobber lifecycle triggers):** \"Concierge upsell candidates (13-24 months post-install, NOT currently on Concierge)\". The exact trigger list.\n- **IDEA_SOURCING.md #14 (Concierge / service-plan upsell):** Explicitly calls out the \"question we get asked at year 1.5\" framing and the math comparison.\n- **HARD RULE #1:** Never pitch Concierge before 12 months. This audience is 13-24 months, so we're clear.\n- **Voice Fingerprint (luxury_product register):** Minimal, confident, periodic single-line paragraphs (\"Here's the math.\"), triadic structure (service/filters/support/parts), no contractions, consultative close (\"I just wanted you to have the numbers\").\n---\n## Why These Two?\n1. **Referral push:** Highest expected ROI. Small audience (30), high conversion potential (10-15%), each conversion worth $500+ in future revenue. Low effort, high trust window.\n2. **Concierge upsell:** Large audience (100), strong lifetime-value play ($1,188/year recurring), framed as education not sales. Converts 8-12 clients = $9,504-$14,256 annual recurring revenue.\nBoth campaigns leverage **Jobber lifecycle triggers** (the #1 highest-conversion idea source per IDEA_SOURCING.md), require **zero creative lift** (no graphics, no links, reply-based CTAs), and hit audiences at peak receptivity windows.\n\n---\n\n*Generated by the Email Sub-Agent · idea sourcing per IDEA_SOURCING.md · sign-off rule: \"Justin / CEO / ClearWave\" two-line, no em dash prefix.*"
+      "id": "pkg_2026-07-13_Copy_of_justin_wedding_solo_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · A solo shot of Justin dressed up at a wedding, used as a personal-brand anchor for the Q1 quarter review — tying his personal discipline/appearance to the story of building ClearWave from scratch this quarter.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"Wore this suit to a wedding. Same guy who built a water company from $0 this qua…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_Copy_of_justin_brandon_wedding_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · A photo of Justin at his friend/brother Brandon's wedding, likely used as a personal 'behind the man' post tied into the Q1 brand recap — connecting the human side (relationships, showing up for people) to the story of building ClearWave in its first quarter.",
+      "preview": "photo · business_money · reach band: high\nTikTok: \"Went to Brandon's wedding this weekend. 1 year ago I was terrified to leave my j…\"",
+      "meta": {
+        "reach": "high",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_Copy_of_20260628_195205_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · An evening 'in-the-field' or workshop photo (7:52 PM timestamp) of Justin reflecting on the first quarter of building ClearWave — likely a candid shot of him at a job site, with a filtration install, or a whiteboard/numbers moment used to anchor the Q1 recap.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"3 months ago ClearWave was just an idea.\nNow I'm looking back at Q1 like… we act…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_2026_06_25_082830770_mp4",
+      "type": "content_package",
+      "title": "🎬 Content · Justin recapping ClearWave's first quarter of building the brand — sharing the raw numbers, wins, and lessons from Q1 as a solo-founder-turned-CEO story, framed against the water business grind.",
+      "preview": "video · business_money · reach band: high\nTikTok: \"Q1 of building this water company from scratch.\nHere's the real numbers nobody s…\"",
+      "meta": {
+        "reach": "high",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_2026_06_23_114851695_mp4",
+      "type": "content_package",
+      "title": "🎬 Content · Justin recapping his first quarter (Q1) of building ClearWave Water Solutions from the ground up — the wins, the numbers, the lessons learned, and what it really took to launch a water filtration company in the VA/DC/MD area.",
+      "preview": "video · business_money · reach band: medium\nTikTok: \"Q1 of building ClearWave is in the books. 4 employees, $11K avg ticket, and marg…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_20260628_195205_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · An evening (7:52pm timestamp) photo — likely Justin on a completed install job or with the crew wrapping up, used as a visual anchor for the Q1 brand-building recap. Frames the human/behind-the-scenes side of ClearWave's first quarter.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"Q1 of ClearWave in the books.\n4 employees, real installs, real clean water. Buil…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_20260628_194153_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · A late-evening (7:41pm) photo from Q1 of building ClearWave — likely a milestone shot: Justin on a job site, at a customer install, or with the small crew. Framed as a Q1 recap moment showing the first quarter of building the brand from scratch.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"Q1 of building this water company from nothing.\nHere's what 90 days actually loo…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_20260628_194139_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · An evening (7:41pm timestamp) photo of Justin at a completed install or job site, used as a Q1 quarter-review anchor — showing the reality behind the numbers of building ClearWave from the ground up over the first quarter.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"Q1 of building ClearWave from nothing.\n$11K avg tickets, 4 employees, 50%+ margi…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-07-13_20260628_194129_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · Late-evening (7:41pm timestamp) photo likely of Justin at a job site or in front of a ClearWave install/truck, used as a hero image for the Q1 quarter review recap — reflecting on the first quarter of building ClearWave Water Solutions.",
+      "preview": "photo · business_money · reach band: medium\nTikTok: \"3 months ago I bet on myself again.\nQ1 of ClearWave is in the books and the numb…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
     }
   ],
   "decisions": {
-    "email_2026-07-13_c1": {
-      "decision": "approved",
-      "decided_at": "2026-07-13T15:47:41.324546+00:00",
-      "sent_at": "2026-07-13T15:48:05.635Z",
-      "send_status": "drafted",
-      "mailchimp_campaign_id": "6a84bf63c8"
+    "pkg_2026-07-13_IMG_20260628_195509_jpg": {
+      "decision": "pending"
     },
-    "email_2026-07-13_c2": {
-      "decision": "approved",
-      "decided_at": "2026-07-13T17:46:36.756328+00:00",
-      "sent_at": "2026-07-13T17:46:51.406Z",
-      "send_status": "drafted",
-      "mailchimp_campaign_id": "763722fc34"
+    "pkg_2026-07-13_Copy_of_justin_wedding_solo_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_Copy_of_justin_brandon_wedding_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_Copy_of_20260628_195205_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_2026_06_25_082830770_mp4": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_2026_06_23_114851695_mp4": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_20260628_195205_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_20260628_194153_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_20260628_194139_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-07-13_20260628_194129_jpg": {
+      "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-06-02T10:30:02.520Z",
-  "last_reseed_at": "2026-07-13T12:42:58.669Z",
-  "last_decision_at": "2026-07-13T17:46:36.756328+00:00"
+  "last_brief_sent": "2026-07-14T10:30:02.023Z"
 }
