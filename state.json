@@ -1,18 +1,6 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "items": [
-    {
-      "id": "email_2026-08-07_c1",
-      "type": "email_proposal",
-      "title": "Email Campaign · : Referral Push (30-60 Day Post-Install)",
-      "preview": "**Why this one leads:** These 30 clients just watched us install and are in the honeymoon window. This is the single highest-intent, highest-margin ask you have. No discounting, no service pitch, just a warm referral with a real cash structure.\n### 1. Campaign\n- **Name:** New Install / Referral Bonus (30-60d)\n- **Audience:** Referral push candidates, 30 members\n### 2. Subject Line (+ 4 alternates)\n- **Primary (specific):** `$500 for every neighbor you send our way`\n- (curiosity): `The question your neighbors keep asking you`\n- (authority): `A quiet thank-you, and an offer`\n- (pain): `Know someone still fighting their water?`\n- (specific): `Your water is handled. Here is what is next.`\n### 3. Preview Text\n`Your system is dialed in. If a neighbor asks, there is $500 in it for you.`\n### 4. Email Body\nHi Jason,\nIt's been about a month since we installed your water system, and by now the difference should be settling into the everyday: the taste, the feel, the little things you stop noticing because they just work.\nHere is the thing we hear most from clients around this point. A neighbor comes over, mentions their water, and asks who did yours.\nIf that happens, send them our way. It is worth real money to you:\n- $500 cash for each referral who becomes a client (referrals 1 through 5 this year)\n- $750 each for 6 through 9, and $1,000 each once you hit 10\n- $50 gift card if they book a free water assessment but do not move forward\nNo cap on how many. Just reply with a name and the best way to reach them, or forward them this email.\nThank you for trusting us with your home.\nJustin\nCEO / ClearWave\n### 5. Send Timing\n**Tuesday, 10:00 AM ET.** Mid-morning Tuesday is the strongest open window for warm homeowner audiences, and it dodges the Monday inbox pileup.\n### 6. Expected Performance\n- **Open:** 55-62% (your list averages 42%; this segment is 30-60 days post-install and highly primed, well above list average)\n- **Click/Reply:** 4-8% (referral cash offers to fresh installs convert far above your 0.28% baseline; the ask is a reply, not a click)\n- **Conversion:** 2-4 referral leads from 30 sends is realistic; even one closed referral returns $500+ against near-zero send cost\n### 7. Source Justification\n- Draws from **Jobber \"Referral push candidates (30-60 days post-install)\"** trigger (30 contacts)\n- Uses exact **REFERRAL BONUS STRUCTURE** ($500 / $750 / $1,000 / $50 gift card)\n- Complies with HARD RULE 1 (no service pitch pre-12mo), RULE 2 (blanket tenure line, no legacy names like \"Ironmax + Ferroluxe\"), RULE 3 (referral not review), RULE 3a (\"free water assessment\" exact)\n---"
-    },
-    {
-      "id": "email_2026-08-07_c2",
-      "type": "email_proposal",
-      "title": "Email Campaign · : Concierge \"Is It Worth It\" (13-24 Months)",
-      "preview": "**Why this one is #2:** 100 candidates, all past their year-1 service (so they trust the work), and the framing is a soft math conversation, not a hard sell. Larger audience, slightly lower intent than the referral group, but strong revenue-per-conversion at $99/mo recurring.\n### 1. Campaign\n- **Name:** Concierge Year-1.5 Math\n- **Audience:** Concierge upsell candidates, 100 members\n### 2. Subject Line (+ 4 alternates)\n- **Primary (curiosity):** `The question we get at the 18-month mark`\n- (specific): `Is Concierge worth it for you? The math.`\n- (pain): `Filter swaps, parts, priority support: sorted`\n- (authority): `What we cover so you never think about it`\n- (specific): `$99 a month, and here is exactly what it does`\n### 3. Preview Text\n`No pressure. Just the honest math on whether Concierge makes sense for your home.`\n### 4. Email Body\nHi Albert,\nIt's been about a year and a half since we installed your water system, and you have had your first annual service, so you have seen how we work.\nHere is the question we get asked most right around now: \"Is this Concierge thing actually worth it for me?\" Fair question. Here is the honest math.\nConcierge is $99/mo and it covers:\n- Your annual service, done automatically\n- Filter swaps on schedule\n- Priority phone support (you skip the line)\n- Parts coverage on your standard install components\nIf you like knowing your water is handled without tracking service dates or one-off invoices, it tends to pay for itself in convenience alone. If you are happy staying pay-as-you-go, that is completely fine too. No pressure either way.\nWant me to run the numbers for your specific setup? Just reply and I will lay it out.\nJustin\nCEO / ClearWave\n### 5. Send Timing\n**Thursday, 11:00 AM ET.** Staggered from Proposal 1 so the two warm campaigns do not compete in the same inbox day. Late-morning Thursday holds strong open rates before the Friday drop-off.\n### 6. Expected Performance\n- **Open:** 48-55% (past year-1 clients, high trust; the curiosity subject outperforms your recent \"discount/app\" subjects that flatlined at 0.2-0.4%)\n- **Click/Reply:** 2-4% (soft reply-based ask; the \"here is the math\" frame invites engagement without a hard commit)\n- **Conversion:** 3-6 Concierge signups from 100 is a conservative target; at $99/mo that is $3,564-$7,128 annual recurring from one send\n### 7. Source Justification\n- Draws from **Jobber \"Concierge upsell candidates (13-24 months, not on Concierge)\"** trigger (100 contacts, pre-filtered past the 12-month floor)\n- Uses **CONCIERGE UPSELL CONTEXT** framing verbatim (\"the question we get asked at year 1.5,\" \"$99/mo,\" component coverage list, not-pushy tone)\n- Complies with HARD RULE 1 (audience is 13-24mo, past the 12-month floor), RULE 2 (tenure line, no legacy \"Re-Ionator Pro\" printed), RULE 5 (no dashes in copy)\n---\n### Note on the cold 1,000 and the Mailchimp health problem\nI deliberately did **not** propose the 1,000-cold re-engagement this week. Your last five campaigns opened at 0.2-0.4%, which suggests a deliverability or list-hygiene issue (a healthy 42% average collapsing to near-zero is a reputation flag, not a copy flag). Blasting 1,000 disengaged addresses right now risks further spam signals. Recommend we fix sender reputation on these two small, high-engagement warm sends first, then re-engage cold leads with the water-news angle next week.\n\n---\n\n*Generated by the Email Sub-Agent · idea sourcing per IDEA_SOURCING.md · sign-off rule: \"Justin / CEO / ClearWave\" two-line, no em dash prefix.*"
-    },
     {
       "id": "pkg_2026-08-06_install_pov_wideview__2_mp4",
       "type": "content_package",
@@ -115,12 +103,6 @@
     }
   ],
   "decisions": {
-    "email_2026-08-07_c1": {
-      "decision": "pending"
-    },
-    "email_2026-08-07_c2": {
-      "decision": "pending"
-    },
     "pkg_2026-08-06_install_pov_wideview__2_mp4": {
       "decision": "pending"
     },
@@ -152,5 +134,5 @@
       "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-08-07T10:30:02.840Z"
+  "last_brief_sent": "2026-08-08T10:30:02.057Z"
 }
