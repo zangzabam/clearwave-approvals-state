@@ -1,18 +1,6 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
-    {
-      "id": "email_2026-08-11_c1",
-      "type": "email_proposal",
-      "title": "Email Campaign · : Referral Push (30-60 Day Post-Install Cohort)",
-      "preview": "**Why this first:** These 30 clients are in the satisfaction sweet spot (recently installed, system fresh, no service friction yet). Referral pushes are safe: no Concierge floor risk, no legacy-name landmines if I use the tenure line, and referrals are the sanctioned growth lever (Rule #3).\n**1. Campaign name + audience:** \"Know Anyone With Bad Water?\". Referral Push · **30 recipients**\n**2. Subject lines (all under 60 char):**\n- Primary (specific): `$500 for a name. Here's how it works.`\n- Curiosity: `The favor we only ask happy clients`\n- Pain: `Your neighbor's water is probably worse than yours was`\n- Authority: `Most of our best installs came from one thing`\n- Specific: `Refer someone, get $500 (up to $1,000)`\n**3. Preview text (under 90 char):** `No pressure. Just the simplest way we grow, and it pays you back.`\n**4. Email body:**\n> Hi [First Name],\n>\n> Quick one.\n>\n> It's been about a month since we installed your ClearWave system, and things should be running quietly in the background exactly the way they're supposed to.\n>\n> Here's the only favor we ever ask good clients: if you know someone fighting hard water, staining, or that funky taste, send them our way for a free water assessment.\n>\n> How it pays you:\n>\n> - If they become a client: **$500 cash** (goes up to $750 after your fifth referral, and $1,000 once you hit ten in a year).\n> - If they just book the assessment and don't move forward: **$50 gift card**, no strings.\n>\n> Reply with a name and the best way to reach them, or forward this email to them directly. That's it.\n>\n> Justin\n> CEO / ClearWave\n**5. Send timing:** **Tuesday, 10:00 AM ET.** Mid-morning Tuesday is the standard high-engagement window; avoids Monday inbox clearing.\n**6. Expected performance:**\n- Open: **40-45%** (in line with your 42.3% baseline; small, warm, recently-served list should hold near average).\n- Click/reply: **3-6%.** Your click history is near zero, but those were promo blasts to the full 3,439. A targeted ask to a 30-person warm cohort with a clear single action (\"reply with a name\") reliably outperforms.\n- Conversion: **1-2 booked consults** realistically from 30 recipients. Even one closed referral = $500 payout justifies the send.\n**7. Source justification:** Draws from the **Referral push candidates (30-60 days post-install, satisfied)** Jobber trigger and the **Referral Bonus Structure** block. Uses the exact \"free water assessment\" phrase (Rule 3a) and the tenure line instead of any legacy name (Rule 2). Note: several systems in this cohort are legacy (Ironmax, H20 Protector), so I deliberately used the blanket \"your ClearWave system\" tenure framing.\n---"
-    },
-    {
-      "id": "email_2026-08-11_c2",
-      "type": "email_proposal",
-      "title": "Email Campaign · : Concierge Upsell (13-24 Month Cohort)",
-      "preview": "**Why this second:** Largest qualified list (100), fully pre-filtered past the 12-month floor, and these clients have already experienced year-1 service so trust is established. Framed as a math question, not a pitch, per the Concierge voice guidance.\n**1. Campaign name + audience:** \"Is Concierge Worth It For Me?\". Year 1.5 Upsell · **100 recipients** (dedupe note below)\n> ⚠️ **Data flag:** Albert Romano appears twice (2/21 and 2/25/2025). Suppress duplicates before send or he gets two emails.\n**2. Subject lines (all under 60 char):**\n- Primary (specific): `The year-1.5 question: is Concierge worth it?`\n- Curiosity: `Here's the math we run for clients like you`\n- Pain: `Who's swapping your filters right now?`\n- Authority: `What most clients ask us around 18 months`\n- Specific: `$99/mo, and exactly what it covers`\n**3. Preview text (under 90 char):** `Not a pitch. Just the honest math on whether Concierge pencils out for your home.`\n**4. Email body:**\n> Hi [First Name],\n>\n> It's been a little over a year since we installed your ClearWave system, so you've been through your first annual service and know how we work.\n>\n> Around this point, clients ask us the same thing: \"Is this Concierge plan actually worth it for me?\"\n>\n> Fair question. Here's the straight math.\n>\n> Concierge is $99/mo and covers:\n>\n> - Your annual service (already worth a chunk of that on its own)\n> - Filter swaps handled for you, on schedule\n> - Priority phone support (you skip the queue)\n> - Parts coverage on your standard install components\n>\n> If you're the type who'd rather not track filter dates or price out parts one at a time, it usually pencils out. If you like handling it yourself, no problem, keep doing what works.\n>\n> Want me to run the numbers against your specific setup? Reply \"math\" and I'll send your breakdown.\n>\n> Justin\n> CEO / ClearWave\n**5. Send timing:** **Thursday, 11:00 AM ET.** Spaced two days after Proposal 1 so no client on both lists gets hit back-to-back; late-morning midweek is strong for considered B2C reads.\n**6. Expected performance:**\n- Open: **38-43%.** Curiosity/math framing plus warm year-1.5 relationship should track baseline.\n- Click/reply: **2-4%.** \"Reply 'math'\" is a low-friction micro-commitment that beats a link click.\n- Conversion: **2-5 Concierge signups** at $99/mo = **$2,376-$5,940 annual recurring** from one send. Highest revenue potential of the two.\n**7. Source justification:** Draws from **Concierge upsell candidates (13-24 months post-install, NOT on Concierge)** trigger and the **Concierge Upsell Context** block (exact $99/mo terms, \"is this worth it for me / here's the math\" framing, non-pushy voice). Respects Rule #1: list is pre-filtered past 12 months, and copy uses the tenure line rather than naming legacy systems.\n---\n### Not proposed this week (and why)\n- **Cold lead re-engagement (1,000):** High potential but needs a fresh water-news angle I don't have a verified source for right now. Rushing a stale hook to 1,000 cold contacts risks spam signals given your recent 0.2-0.4% open collapse. Worth a dedicated build next week.\n- **1-year annual service (23):** Operational/service touch, lower revenue lift than referral + Concierge, and several are low-ticket ($349) accounts. Runs fine as an automated trigger rather than a featured campaign.\nWant me to build out the cold-lead re-engagement for next week once we lock a news angle?\n\n---\n\n*Generated by the Email Sub-Agent · idea sourcing per IDEA_SOURCING.md · sign-off rule: \"Justin / CEO / ClearWave\" two-line, no em dash prefix.*"
-    },
     {
       "id": "pkg_2026-08-06_install_pov_wideview__2_mp4",
       "type": "content_package",
@@ -115,12 +103,6 @@
     }
   ],
   "decisions": {
-    "email_2026-08-11_c1": {
-      "decision": "pending"
-    },
-    "email_2026-08-11_c2": {
-      "decision": "pending"
-    },
     "pkg_2026-08-06_install_pov_wideview__2_mp4": {
       "decision": "pending"
     },
@@ -152,5 +134,5 @@
       "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-08-11T10:30:02.288Z"
+  "last_brief_sent": "2026-08-12T10:30:01.819Z"
 }
