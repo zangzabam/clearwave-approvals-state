@@ -1,6 +1,53 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
+    {
+      "id": "reel_2026-08-12_compass",
+      "type": "content_package",
+      "title": "🎬 Content · undefined",
+      "preview": "undefined · undefined · reach band: undefined\nTikTok: \"Behind the counter at a coffee shop: new water treatment going in so every cup t…\"",
+      "meta": {}
+    },
+    {
+      "id": "pkg_2026-08-12_Compass_4_mp4",
+      "type": "content_package",
+      "title": "🎬 Content · A finished commercial water treatment install in a mechanical/back-of-house room: a black brine tank beside a tall media/resin tank with a control valve, plus copper plumbing, shutoff valves, a wall control panel, and a blue tank. POV walkthrough of a completed system.",
+      "preview": "video · water_truth · reach band: medium\nTikTok: \"This is what clean water actually costs behind the wall.\nBrine tank, resin tank,…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "water_truth"
+      }
+    },
+    {
+      "id": "pkg_2026-08-12_Compass_3_jpg",
+      "type": "content_package",
+      "title": "🎬 Content · A finished whole-home water treatment install in a tight mechanical closet: a tall black media/filter tank with digital control valve, a black brine tank, a blue pressurized RO tank near the ceiling, and a wall-mounted RO unit with pressure gauge and 'GET WATER / RO WATER' labeling, connected by copper, PVC, and braided flex lines.",
+      "preview": "photo · water_truth · reach band: medium\nTikTok: \"This little closet is now cleaning EVERY drop of water in the house.\nSoftener + …\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "water_truth"
+      }
+    },
+    {
+      "id": "pkg_2026-08-12_Compass_2_mp4",
+      "type": "content_package",
+      "title": "🎬 Content · Behind-the-counter install/service walkthrough at a 'REAL FOOD COFFEE' shop — gas cylinders, espresso and rapid-cook equipment, and staged PEX tubing showing a commercial water job in progress.",
+      "preview": "video · business_money · reach band: medium\nTikTok: \"This coffee shop makes 'real food' but their water? Worse than you think.\nSee wh…\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "business_money"
+      }
+    },
+    {
+      "id": "pkg_2026-08-12_Compass_1_mp4",
+      "type": "content_package",
+      "title": "🎬 Content · Whole-house water treatment install in a cramped commercial mechanical room: blue cartridge filter housing, stainless metering/control panel with digital display, copper piping with shutoff valves and pressure gauges, braided supply line, and a black composite media tank with control valve head. Technician working in progress in dim, cluttered conditions.",
+      "preview": "video · water_truth · reach band: medium\nTikTok: \"This whole system fits in a closet the size of your pantry.\nMost people have NO …\"",
+      "meta": {
+        "reach": "medium",
+        "pillar": "water_truth"
+      }
+    },
     {
       "id": "pkg_2026-08-06_install_pov_wideview__2_mp4",
       "type": "content_package",
@@ -50,59 +97,24 @@
         "reach": "medium",
         "pillar": "water_truth"
       }
-    },
-    {
-      "id": "pkg_2026-08-06_2026_06_23_114851695_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · Justin explaining how he scaled ClearWave to 50%+ net margins with only 4 employees — a 'scale' angle showing that lean operations beat bloated headcount in the water treatment business.",
-      "preview": "video · business_money · reach band: high\nTikTok: \"Everybody thinks you need 50 employees to scale.\nI run 50%+ margins with 4. Smal…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "business_money"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_20260804_170223_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · Justin explaining how he scaled ClearWave's operations and margins during a growth push — likely a behind-the-scenes look at what it takes to scale a water treatment business (systems, hiring, high-ticket sales) tied to Week 9's 'Scale' theme.",
-      "preview": "video · business_money · reach band: medium\nTikTok: \"Everybody wants to scale but nobody wants the boring systems that make it possib…\"",
-      "meta": {
-        "reach": "medium",
-        "pillar": "business_money"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_20260804_141227_jpg",
-      "type": "content_package",
-      "title": "🎬 Content · A behind-the-scenes shot of Justin on a job site or at the office during a scaling milestone — likely showcasing ClearWave's growth (team, install, or booked jobs board) tied to Week 9's 'Scale' theme. Filename timestamp (2:12pm) suggests a workday capture, probably him at a customer home post-install or reviewing numbers.",
-      "preview": "photo · business_money · reach band: high\nTikTok: \"4 employees. 50%+ net margins. $11K average ticket.\nMost people think you need 1…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "business_money"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_20260804_125757_jpg",
-      "type": "content_package",
-      "title": "🎬 Content · A midday job-site photo (12:57 PM timestamp) showing Justin or a tech mid-install of a whole-home ClearWave system, tied to Week 9 'Scale' theme — likely used to show how the business is growing (more trucks, more jobs, more homes fixed) as proof of scaling.",
-      "preview": "photo · business_money · reach band: medium\nTikTok: \"This is job #3 today and it's not even 1PM.\nScaling a water company means more t…\"",
-      "meta": {
-        "reach": "medium",
-        "pillar": "business_money"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_20260804_123316_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · Justin explains how ClearWave scaled its route density and crew efficiency to hit $138K peak months with only 4 employees — a 'Scale' week lesson on growing revenue without bloating headcount",
-      "preview": "video · business_money · reach band: high\nTikTok: \"We hit $138K in a month with 4 guys.\nMost 'water companies' add bodies. We added…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "business_money"
-      }
     }
   ],
   "decisions": {
+    "reel_2026-08-12_compass": {
+      "decision": "pending"
+    },
+    "pkg_2026-08-12_Compass_4_mp4": {
+      "decision": "pending"
+    },
+    "pkg_2026-08-12_Compass_3_jpg": {
+      "decision": "pending"
+    },
+    "pkg_2026-08-12_Compass_2_mp4": {
+      "decision": "pending"
+    },
+    "pkg_2026-08-12_Compass_1_mp4": {
+      "decision": "pending"
+    },
     "pkg_2026-08-06_install_pov_wideview__2_mp4": {
       "decision": "pending"
     },
@@ -117,22 +129,7 @@
     },
     "pkg_2026-08-06_RO_install_mp4": {
       "decision": "pending"
-    },
-    "pkg_2026-08-06_2026_06_23_114851695_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_20260804_170223_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_20260804_141227_jpg": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_20260804_125757_jpg": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_20260804_123316_mp4": {
-      "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-08-12T10:30:01.819Z"
+  "last_brief_sent": "2026-08-13T10:30:01.686Z"
 }
