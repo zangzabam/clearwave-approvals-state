@@ -1,6 +1,18 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "items": [
+    {
+      "id": "email_2026-08-14_c1",
+      "type": "email_proposal",
+      "title": "Email Campaign · : Concierge \"Year 1.5 Math\" Campaign",
+      "preview": "**Audience:** Concierge upsell candidates, 13-24 months post-install, not on Concierge = **100 members**\nThis is the highest-conversion play available. These people already trusted us through year-1 service, they are the warmest non-buyers in the file, and $99/mo recurring is the best revenue-per-email of anything on the board.\n**Subject line (primary):**\n`Is Concierge actually worth it for you?`\n**Alternates:**\n1. (curiosity) `The question everyone asks us at year 1.5`\n2. (specific) `Here is the actual Concierge math`\n3. (authority) `What your annual service, filters, and parts really cost`\n4. (pain) `Skip a filter swap and here is what happens`\n**Preview text:**\n`No pressure. Just the numbers so you can decide for yourself.`\n**Body:**\nHi [First Name],\nIt's been a little over a year since we installed your water system, and you have already been through your first annual service. So you know how we work.\nHere is the question we get asked most around this point: \"Is this Concierge thing actually worth it for me?\"\nFair question. Here is the honest math.\nConcierge is $99/mo. It covers your annual service, filter swaps, priority phone support, and parts coverage on your standard install components. If you are currently paying as you go, add up a year of service plus filters and compare. For most homes it is close to a wash, and you stop having to think about scheduling or tracking swap dates.\nIf pay-as-you-go suits you better, keep doing that. No hard feelings. I just want you to have the numbers.\nWant me to run your specific setup and tell you whether it pencils out? Reply to this email and I will send you your personal breakdown.\nJustin\nCEO / ClearWave\n**Send timing:** Tuesday, 10:00 AM ET (mid-morning, mid-week peak for B2C service opens; avoids Monday inbox flood).\n**Expected performance:**\n- Open: **45-50%** (above your 42.3% baseline; warm audience, curiosity subject, no spammy discount language that tanked recent sends to 0.4%)\n- Click/reply: **6-10%** (reply-driven CTA, high-intent segment; far above your 0.23% because prior campaigns used broken discount hooks and app-access subjects that read as transactional noise)\n- Conversion to Concierge: **4-8 sign-ups** (100 warm candidates × ~5% realistic on a first touch; $99/mo = ~$475-950 MRR from one email)\n**Source justification:** Draws from CONCIERGE UPSELL CONTEXT (the \"year 1.5 math\" framing verbatim, $99/mo feature list, \"not pushy\" voice) and JOBBER LIFECYCLE TRIGGERS (13-24 mo, filtered off-Concierge list). Respects HARD RULE 1 (all candidates are past 12 months) and HARD RULE 2 (blanket tenure line, no legacy names printed).\n---"
+    },
+    {
+      "id": "email_2026-08-14_c2",
+      "type": "email_proposal",
+      "title": "Email Campaign · : Cold Lead Re-Engagement (News Angle)",
+      "preview": "**Audience:** Cold subscribers, joined >60d ago, no engagement >60d, still subscribed = **1000 members**\nBiggest raw reach on the board and completely untapped for 60+ days. Even a low conversion rate on 1000 dead contacts produces free-water-assessment bookings at zero acquisition cost. Leads with new value, not a stale \"still interested?\"\n**Subject line (primary):**\n`New water data for [City] came out`\n**Alternates:**\n1. (curiosity) `We ran the numbers on local water again`\n2. (authority) `What is actually in the water around here`\n3. (specific) `One free step to see what is in your water`\n4. (pain) `Hard water leaves a fingerprint. Here is yours.`\n**Preview text:**\n`It has been a while. Quick reset, plus one no-cost next step if you want it.`\n**Body:**\nHi [First Name],\nIt has been a while since we talked, so this is a quiet reset. No pitch, no pressure.\nYou reached out to us a while back about your water. A lot of homes in our area deal with the same handful of issues: hardness, iron, sediment, and taste. Most people never actually find out what is in their own water, they just live with the spots on the glasses and the buildup on the fixtures.\nIf you are curious what is really going on at your tap, we offer a free water assessment. Someone comes out, tests what matters, and tells you straight. If everything looks good, we will tell you that too.\nThat is the only next step. Want us to set one up?\nJustin\nCEO / ClearWave\n**Send timing:** Wednesday, 11:00 AM ET (separate day from Proposal 1 to protect sender reputation across a large cold send; late-morning midweek).\n**Expected performance:**\n- Open: **12-20%** (cold, disengaged audience; well below your 42.3% warm baseline, but the fresh news angle and city personalization should clear the ~0.4% floor the recent campaigns hit by a wide margin)\n- Click/reply: **1-3%** (free water assessment is a low-friction single CTA)\n- Conversion to booked assessment: **10-25 assessments** (1000 × ~1.5% realistic on a re-engagement first touch); these feed quotes and referrals downstream\n**Deliverability note:** Send in 2-3 batches, prune hard bounces after batch 1, and confirm these are still opted-in. A 1000-contact cold blast in one shot can hurt the domain reputation that keeps your warm 42% opens healthy.\n**Source justification:** Draws directly from COLD LEAD RE-ENGAGEMENT spec (lead with NEW value / news angle, reset the relationship, offer free water assessment as the ONE next step) and MAILCHIMP HEALTH (avoids the discount/app subject patterns sitting at 0.4%). Uses HARD RULE 3a exact phrase \"free water assessment.\" No product naming issue since no system field is referenced.\n---\n### What I deliberately did NOT run this week\n- **1-year annual service candidates (23):** operational scheduling, not a marketing email in Justin's voice. Route to Jobber service reminders.\n- **Referral push (30):** strong campaign, but the two highest-value plays this week are recurring revenue (Concierge) and dormant-pipeline reactivation (cold leads). Referral is my top pick for next week to avoid over-mailing the warm file.\n- **RO replacement cycle (27):** worth a dedicated maintenance-timing email soon, but several entries carry legacy system names that would need the tenure-line workaround; batching it next week keeps this week clean.\n\n---\n\n*Generated by the Email Sub-Agent · idea sourcing per IDEA_SOURCING.md · sign-off rule: \"Justin / CEO / ClearWave\" two-line, no em dash prefix.*"
+    },
     {
       "id": "reel_2026-08-12_compass",
       "type": "content_package",
@@ -47,59 +59,15 @@
         "reach": "medium",
         "pillar": "water_truth"
       }
-    },
-    {
-      "id": "pkg_2026-08-06_install_pov_wideview__2_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · First-person wide-angle POV of a ClearWave whole-home water filtration system being installed — showing the scale of the equipment, plumbing tie-ins, and the finished premium setup, used to demonstrate the professional install process homeowners get.",
-      "preview": "video · water_truth · reach band: high\nTikTok: \"POV: this is what protecting your whole home actually looks like.\nMost people ha…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "water_truth"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_install_pov_copp3ler_cuy_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · First-person POV of a whole-home copper water line install / softener-conditioner hookup, showing the craftsmanship and scale of ClearWave's install work — tying to Week 9 'Scale' theme about growing install volume and doing premium jobs right.",
-      "preview": "video · water_truth · reach band: high\nTikTok: \"POV: you finally see what clean water actually costs to install right.\nMost 'plu…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "water_truth"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_install_dc_pov_install_conmection_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · POV-style install footage from a DC-area job showing a ClearWave whole-home water filtration system connection being made — a behind-the-scenes look at the actual install process and craftsmanship that justifies the premium ticket.",
-      "preview": "video · water_truth · reach band: high\nTikTok: \"POV: your DC water finally gets the truth treatment.\nThis connection is why your…\"",
-      "meta": {
-        "reach": "high",
-        "pillar": "water_truth"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_VID_20260623_084443_277_bsl_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · Justin talking through how ClearWave scaled operations — likely a behind-the-scenes clip filmed early morning (8:44am) about growing the business, systems, or hitting revenue milestones, tied to Week 9 'Scale' theme",
-      "preview": "video · business_money · reach band: medium\nTikTok: \"Everybody wants to scale. Almost nobody wants to fix the boring stuff first.\nTha…\"",
-      "meta": {
-        "reach": "medium",
-        "pillar": "business_money"
-      }
-    },
-    {
-      "id": "pkg_2026-08-06_RO_install_mp4",
-      "type": "content_package",
-      "title": "🎬 Content · A reverse osmosis (RO) drinking water system installation in a customer's home — showing the multi-stage filtration unit going under the sink, positioned as a premium whole-solution upgrade and tying into the Week 9 'Scale' theme of standardizing high-ticket installs across the VA/DC/MD service area.",
-      "preview": "video · water_truth · reach band: medium\nTikTok: \"This little system under the sink strips out what your tap won't tell you about.…\"",
-      "meta": {
-        "reach": "medium",
-        "pillar": "water_truth"
-      }
     }
   ],
   "decisions": {
+    "email_2026-08-14_c1": {
+      "decision": "pending"
+    },
+    "email_2026-08-14_c2": {
+      "decision": "pending"
+    },
     "reel_2026-08-12_compass": {
       "decision": "pending"
     },
@@ -114,22 +82,7 @@
     },
     "pkg_2026-08-12_Compass_1_mp4": {
       "decision": "pending"
-    },
-    "pkg_2026-08-06_install_pov_wideview__2_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_install_pov_copp3ler_cuy_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_install_dc_pov_install_conmection_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_VID_20260623_084443_277_bsl_mp4": {
-      "decision": "pending"
-    },
-    "pkg_2026-08-06_RO_install_mp4": {
-      "decision": "pending"
     }
   },
-  "last_brief_sent": "2026-08-13T10:30:01.686Z"
+  "last_brief_sent": "2026-08-14T10:30:01.930Z"
 }
